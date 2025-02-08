@@ -3,4 +3,4 @@ Febrero 2025
 
 Rastreo en near real time de migración de la gaviota sombría
 
-Gaviota.png
+![Gaviota](Gaviota.png)
